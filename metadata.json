@@ -1,0 +1,6 @@
+{
+  "name": "Jhenaigati Upazila Web Portal",
+  "description": "Official local government web portal of Jhenaigati Upazila, Sherpur, Bangladesh. Providing citizen charter services, administrative directory, development projects, and tourism information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
